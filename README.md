@@ -20,3 +20,5 @@ Microsoft Power BI
 
 # Conclusion
 The project was successful in answering the set of questions about an E-commerce Store's performance. The results of the project can be found in result.txt file.
+# Credit
+Rishabh Vishwakarma Sir
